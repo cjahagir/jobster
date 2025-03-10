@@ -1,0 +1,1 @@
+web: uvicorn index:app --host
